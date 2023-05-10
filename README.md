@@ -1,4 +1,4 @@
-# Issue-Tracker
+# Issue Tracker
 
 https://github.com/teotimepacreau/Issue-Tracker-Day19-Of-100DaysOfCode/assets/95431443/a4ed27cd-2dce-4df2-b4ee-65255eff8566
 
